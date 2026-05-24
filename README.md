@@ -35,15 +35,6 @@ Goal: Build futuristic applications
 
 </div>
 
-## ⚡ GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Egcasy&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egcasy&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
 
 ---
 
@@ -57,15 +48,6 @@ Goal: Build futuristic applications
 
 ---
 
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Egcasy&theme=tokyonight&hide_border=true&background=00000000"/>
-
-</div>
-
----
 
 # 📈 Activity Graph
 
